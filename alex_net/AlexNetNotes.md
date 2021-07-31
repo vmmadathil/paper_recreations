@@ -33,8 +33,6 @@ Dropout refers to setting the output of hidden neurons to zero with a probabilit
 
 **non-saturating nonlinearities** : These functions do approach infinity as the limit increases
 
-
-
 **sigmoid**: $f(x) = (1 + e^{-x})^{-1}$
 
 **tanh**: $f(x) = tanh(x)$
